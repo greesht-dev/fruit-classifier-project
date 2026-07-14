@@ -1,0 +1,3 @@
+0 Apples
+1 Oranges
+2 Bananas
