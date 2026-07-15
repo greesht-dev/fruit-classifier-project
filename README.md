@@ -7,13 +7,13 @@ I built this to go deeper than what the kids were doing, and was encouraged by m
 What it does:
 Computer vision pipeline that classifies fruit images using a TensorFlow Lite model, logs every prediction with confidence scores and timestamps to CSV, and visualizes session data in a Streamlit dashboard.
 
-Tech Stack
+Tech Stack:
 Python, TensorFlow Lite, Pandas, Matplotlib, Streamlit. Model trained with Google Teachable Machine.
 
-How to Run
+How to Run:
 pip install -r requirements.txt
 python3.11 app.py
 streamlit run dashboard.py
 
-Dashboard
+Dashboard:
 Detection counts by fruit, confidence scores over time, summary stats per class.
